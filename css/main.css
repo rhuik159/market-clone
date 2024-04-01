@@ -56,4 +56,6 @@ main {
   bottom: 140px;
   right: 20px;
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
 }
